@@ -39,8 +39,7 @@ export function Testimonial() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Работа с Wabi была похожа на медитацию. Они поняли, что наш дом должен поддерживать
-          благополучие семьи, а не просто красиво выглядеть. Результат — пространство, которое наконец ощущается как наше.
+          Я ждала, что будет красиво. Не ожидала, что будет так тихо — в хорошем смысле. Wabi сделали наш дом местом, где не хочется никуда уходить.
         </blockquote>
 
         {/* Attribution */}
@@ -49,8 +48,8 @@ export function Testimonial() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          <p className="text-sm tracking-widest uppercase text-primary-foreground/80">Анна и Михаил Петровы</p>
-          <p className="text-sm text-primary-foreground/60 mt-1">Резиденция в Москве</p>
+          <p className="text-sm tracking-widest uppercase text-primary-foreground/80">Екатерина В.</p>
+          <p className="text-sm text-primary-foreground/60 mt-1">Квартира 140 м² · Москва, Хамовники</p>
         </div>
       </div>
     </section>

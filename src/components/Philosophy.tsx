@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Красота
+              <span className="italic"> в простоте</span>
               <br />
-              жизни
+              смысл в каждой детали
             </h2>
 
             <div
@@ -67,13 +67,13 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Мы не декорируем — мы выявляем. В каждом пространстве уже живёт своя суть,
+                и наша задача — убрать лишнее, чтобы она наконец проявилась.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Японская концепция <em className="text-foreground">ма</em> учит нас, что пустота — это не отсутствие,
+                а возможность. Скандинавское <em className="text-foreground">хюгге</em> напоминает: дом должен
+                обнимать. Мы объединяем оба этих взгляда.
               </p>
             </div>
 
@@ -84,15 +84,15 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">10+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">120+</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">6</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
               </div>
             </div>
